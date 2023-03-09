@@ -7,3 +7,4 @@ Es soll eine Klasse, die Zahlen zur Basis 9 ziffernweise darstellt, und folgende
 5) Einen Ein-und Ausgabeoperator.
 6) Eine Funktion zur Bestimmen der Fakultät. 
 
+
