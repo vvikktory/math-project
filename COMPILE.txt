@@ -1,0 +1,1 @@
+g++ -Wall --std=c++17 -o 9er main.cpp 9.cpp
